@@ -1,0 +1,62 @@
+BOM - Knock Box,,,,,,,,,,,,,,,
+Note: Quantities in red refer to two boxes (one for Mario and one for Leander) plus some reasonable buffer.,,,,,,,,,,,,,,,
+#,Sourced,Placed,References,Value,Footprint,MFR,MFR Part Number,Supplier 1,Supplier 1 Part Number,URL, $ per Unit ,Quantity single Box,$ per categorie per box,Quantity to Order (two Boxes plus buffer),$ per categorie for both boxes plus buffer
+1,,,"C3, C5, C10, C15, C16, C19, C21, C22, C23",10uF,G-21_MUR,Murata Electronics,GRM21BR61C106KE15K,DigiKey,490-6473-1-ND,,$0.18 ,9,$1.62 ,22,$3.96 
+2,,,"C1, C4, C6, C7, C11, C12, C13, C14",1uF,G-21_MUR,Murata Electronics,GRM21BR71C105KA01L,DigiKey,490-1691-1-ND,,$0.21 ,8,$1.68 ,20,$4.20 
+3,,,"C2, C18, C20",220pF,G-21_MUR,Murata Electronics,GRM21A5C2E221JW01D,DigiKey,490-13371-1-ND,,$0.25 ,3,$0.75 ,10,$2.50 
+4,,,"C8, C9",22pF,G-21_MUR,Murata Electronics,GRM21A5C2D220JW01D,DigiKey,490-14650-1-ND,,$0.25 ,2,$0.50 ,8,$2.00 
+5,,,C17,0.1uF,G-21_MUR,Murata Electronics,GRM21B7U1A104JA01L,DigiKey,490-11592-1-ND,,$0.32 ,1,$0.32 ,6,$1.92 
+6,,,"R2, R3, R4, R5, R6, R8, R12, R13",10K,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805FT10K0,DigiKey,RMCF0805FT10K0CT-ND,,$0.10 ,8,$0.80 ,20,$2.00 
+7,,,"R9, R15, R16, R17, R20",1K,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805FT1K00,DigiKey,RMCF0805FT1K00CT-ND,,$0.10 ,5,$0.50 ,14,$1.40 
+8,,,"R1, R10, R11, R23",100K,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805FT100K,DigiKey,RMCF0805FT100KCT-ND,,$0.10 ,4,$0.40 ,12,$1.20 
+9,,,"R14, R19, R21",2.2K,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805FT2K20,DigiKey,RMCF0805FT2K20CT-ND,,$0.10 ,3,$0.30 ,10,$1.00 
+10,,,R7,68,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805JT68R0,DigiKey,RMCF0805JT68R0CT-ND,,$0.10 ,1,$0.10 ,4,$0.40 
+11,,,R18,6.8K,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805FT6K80,DigiKey,RMCF0805FT6K80CT-ND,,$0.10 ,1,$0.10 ,4,$0.40 
+12,,,R22,1M,STA_RMCF0805_STP,Stackpole Electronics Inc,RMCF0805JT1M00,DigiKey,RMCF0805JT1M00CT-ND,,$0.10 ,1,$0.10 ,4,$0.40 
+13,,,L1,10uH,L_0805_2012Metric,Bourns Inc.,CV201210-100K,DigiKey,CV201210-100KCT-ND,,$0.10 ,1,$0.10 ,4,$0.40 
+14,,,"D3, D6",RED LED,LED_LTST-C191KRKT_LTO,Lite-On Inc.,LTST-C191KRKT,DigiKey,160-1447-1-ND,,$0.25 ,2,$0.50 ,6,$1.50 
+15,,,D1,D_Schottky,SDO_RB550VM-30TE-17_ROM,Rohm Semiconductor,RB550VM-30TE-17,DigiKey,846-RB550VM-30TE-17CT-ND,,$0.38 ,1,$0.38 ,4,$1.52 
+16,,,D2,ORANGE LED,LED_LTST-C191KRKT_LTO,Lite-On Inc.,LTST-C191KFKT,DigiKey,160-1445-1-ND,,$0.23 ,1,$0.23 ,4,$0.92 
+17,,,D4,NeoPixel_THT,LED_1655,Adafruit Industries LLC,1655,DigiKey,1528-1104-ND,,$4.50 ,1,$4.50 ,4,$18.00 
+18,,,D5,BLUE LED,LED_LTST-C191KRKT_LTO,Lite-On Inc.,LTST-C191TBKT,DigiKey,160-1647-1-ND,,$0.34 ,1,$0.34 ,4,$1.36 
+19,,,D7,GREEN LED,LED_LTST-C191KRKT_LTO,Lite-On Inc.,LTST-C191KGKT,DigiKey,160-1446-1-ND,,$0.25 ,1,$0.25 ,4,$1.00 
+20,,,U1,AP2112K-3.3,SOT-23-5,Diodes Incorporated,AP2112K-3.3TRG1,DigiKey,AP2112K-3.3TRG1DICT-ND,,$0.35 ,1,$0.35 ,3,$1.05 
+21,,,U2,ATSAMD51J19A-A,TQFP-64_10x10mm_P0.5mm,Microchip Technology,ATSAMD51J19A-AUT,DigiKey,ATSAMD51J19A-AUTCT-ND,,$5.68 ,1,$5.68 ,3,$17.04 
+22,,,U3,MCP73831-2-OT,SOT-23-5,Microchip Technology,MCP73831T-2ACI/OT,DigiKey,MCP73831T-2ACI/OTCT-ND,,$0.76 ,1,$0.76 ,3,$2.28 
+23,,,U4,ESP32-S3-WROOM-1-N16R8,ESP32­S3­WROOM­1U_EXP,Espressif Systems,ESP32-S3-WROOM-1-N16R8,DigiKey,1965-ESP32-S3-WROOM-1-N16R8CT-ND,,$2.95 ,1,$2.95 ,3,$8.85 
+24,,,U5,74AHC1G125,USB_C_Receptacle_XKB_U262-16XN-4BVC11,Texas Instruments,SN74AHC1G125DBVR,DigiKey,296-8744-1-ND,,$0.37 ,1,$0.37 ,3,$1.11 
+25,,,U6,MAX98357AETE+T,21-0136I_T1633-4_MXM,Analog Devices Inc./Maxim Integrated,MAX98357AETE+T,DigiKey,MAX98357AETE+TCT-ND,,$2.89 ,1,$2.89 ,3,$8.67 
+26,,,Y1,Crystal,Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm,ECS Inc.,ECS-.327-12.5-34B-TR,DigiKey,XC1617CT-ND,,$0.44 ,1,$0.44 ,4,$1.76 
+27,,,SW1,KMR231NG LFS,IC4_KMR231NGLFS_CNK,,KMR231NG LFS,DigiKey,CKN10246CT-ND,,$0.64 ,1,$0.64 ,4,$2.56 
+28,,,"H1, H2, H3, H4",MountingHole,MountingHole_3.2mm_M3_ISO7380,,,,,,,4, $-   ,0, $-   
+29,,,"FB1, FB2",FerriteBead,L_0805_2012Metric,Laird-Signal Integrity Products,HI0805Q310R-10,DigiKey,240-2394-1-ND,,$0.20 ,2,$0.40 ,6,$1.20 
+30,,,"TP1, TP2",TestPoint,KEYSTONE_5000,Keystone Electronics,5000,DigiKey,36-5000-ND,,$0.38 ,2,$0.76 ,6,$2.28 
+31,,,JP1,~,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,,,,,,,1, $-   ,0, $-   
+32,,,MK1,SPH0645LM4H,Knowles_SPH0645LM4H-6_3.5x2.65mm,Knowles,SPH0645LM4H-B,DigiKey,423-SPH0645LM4H-BCT-ND,,$2.74 ,1,$2.74 ,4,$10.96 
+33,,,Q1,BSS84,SOT-23,Diodes Incorporated,BSS84-7-F,DigiKey,BSS84-FDICT-ND,,$0.24 ,1,$0.24 ,3,$0.72 
+34,,,S1,SS-24E06-TG_5__P_,SW_SS-24E06-TG_5__P_,C&K,SS-24E06-TG 5 (P),DigiKey,CKN10394-ND,,$1.15 ,1,$1.15 ,3,$3.45 
+35,,,"J2, J3, J8",Molex2,CONN_22232021_MOL,Molex,22232021,DigiKey,900-0022232021-ND,,$0.21 ,3,$0.63 ,8,$1.68 
+36,,,"J4, J11",B2B-PH-SM4-TB,CONN_B2B-PH-SM4-TBLFSN_JST,JST Sales America Inc.,B2B-PH-SM4-TB,DigiKey,455-B2B-PH-SM4-TBCT-ND,,$0.55 ,2,$1.10 ,6,$3.30 
+37,,,"J7, J10",61300311121,PinHeader_1x03_P2.54mm_Vertical,Würth Elektronik,61300311121,DigiKey,732-5316-ND,,$0.13 ,2,$0.26 ,6,$0.78 
+38,,,J1,3221-10-0300-00,CONN10_3221-10-0300-00_CNC,CNC Tech,3221-10-0300-00,DigiKey,1175-1735-ND,,$0.76 ,1,$0.76 ,3,$2.28 
+39,,,J5,61300911021,PinHeader_1x09_P2.54mm_Horizontal,Würth Elektronik,61300911021,DigiKey,732-5342-ND,,$0.88 ,1,$0.88 ,3,$2.64 
+40,,,J6,USB_C_Receptacle_USB2.0,USB_C_Receptacle_XKB_U262-16XN-4BVC11,XKB Connectivity,U262-161N-4BVC11,LCSC ELECTRONICS,C319148,,$0.40 ,1,$0.40 ,3,$1.20 
+41,,,J9,Molex3,CONN3_22232031_MOL,Molex,22232031,DigiKey,WM4201-ND,,$0.27 ,1,$0.27 ,3,$0.81 
+42,,,J12,OSTVN02A150,CONN_OSTVN02A150_OST,On Shore Technology Inc.,OSTVN02A150,DigiKey,ED10561-ND,,$1.08 ,1,$1.08 ,3,$3.24 
+43,,,not part of PCB,Force Sensor,,Adafruit Industries LLC,1075,Adafruit Industries LLC,1075,,$5.95 ,1,$5.95 ,2,$11.90 
+44,,,not part of PCB,Jumbo LED Green,,Kingbright,WP813GD,DigiKey,754-1898-ND,,$0.43 ,1,$0.43 ,2,$0.86 
+45,,,not part of PCB,Jumbo LED Red,,Kingbright,WP813SURDK,DigiKey,754-WP813SURDK-ND,,$0.62 ,0, $-   ,2,$1.24 
+46,,,not part of PCB,6V Servo Motor,,Parallax Inc.,900-00005,DigiKey,900-00005-ND,,$15.87 ,1,$15.87 ,2,$31.74 
+47,,,not part of PCB,16mm Flush Button,,-,-,Ebay,1.31657E+11,https://www.ebay.com/itm/131657180740,$5.99 ,1,$5.99 ,2,$11.98 
+48,,,not part of PCB,SD-Card-Module,,Adafruit Industries LLC,4682,DigiKey,1528-4682-ND,,$3.50 ,1,$3.50 ,3,$10.50 
+49,,,not part of PCB,Jumper Pin Shunts,,Sullins Connector Solutions,STC02SYAN,DigiKey,S9000-ND,,$0.10 ,2,$0.20 ,6,$0.60 
+50,,,not part of PCB,Female Socket Angled,,Sullins Connector Solutions,PPPC091LGBN-RC,DigiKey,S5484-ND,,$0.77 ,1,$0.77 ,2,$1.54 
+51,,,not part of PCB,Male Header Angled,,W�rth Elektronik,61300911021,DigiKey,732-5342-ND,,$0.88 ,1,$0.88 ,2,$1.76 
+52,,,not part of PCB,Molex Crimp Housing 2 Pins,,Molex,22013027,DigiKey,900-0022013027-ND,,$0.16 ,3,$0.48 ,10,$1.60 
+53,,,not part of PCB,Molex Crimp Housing 3 Pins,,Molex,22013037,DigiKey,900-0022013037-ND,,$0.19 ,1,$0.19 ,3,$0.57 
+54,,,not part of PCB,Crimp Terminals,,Molex,8650804,DigiKey,WM2756CT-ND,,$0.10 ,9,$0.90 ,30,$3.00 
+55,,,not part of PCB,Battery Pack,,Adafruit Industries LLC,3859,DigiKey,1528-2707-ND,,$2.95 ,1,$2.95 ,2,$5.90 
+56,,,not part of PCB,AA Batteries,,Panasonic - BSG,LR6XWA/BXU,DigiKey,11-LR6XWA/BXU-ND,,$0.44 ,4,$1.76 ,8,$3.52 
+57,,,not part of PCB,Lithion Battery 3.7V,,SparkFun Electronics,PRT-13855,DigiKey,1568-1686-ND,,$13.95 ,1,$13.95 ,2,$27.90 
+,,,,SD Card,,,,,,,,,$92.04 ,,$238.55 
+,,,,Speaker,,,,,,,,,,,
