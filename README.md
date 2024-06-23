@@ -16,9 +16,9 @@ This project focuses on an interactive device that communicates with identical b
 
 https://github.com/LeanderU/KnockBox/assets/84909019/8b67ddaa-3543-461e-bd95-6ebf5e21cfc9
 
+The video shown only demonstrates the ability to record and play the knocking sound. The capability of recording and replaying audio messages is not implemented yet.
+
 ![KnockBox_Iso](https://github.com/LeanderU/KnockBox/assets/84909019/fc34830a-a89c-4137-9323-e6863b8ff08e)
 ![KnockBox_Front](https://github.com/LeanderU/KnockBox/assets/84909019/620053fa-f0c2-42e6-9f3c-d58df0999d6d)
 ![PXL_20240531_070939251 MP](https://github.com/LeanderU/KnockBox/assets/84909019/92bcf847-aa77-4c01-befa-887e7bbecb92)
-![PXL_20240531_070058998 MP](https://github.com/LeanderU/KnockBox/assets/84909019/95b36a99-efc3-42f3-9e7e-e4c401280679)
-
-
+![Overview_with_descriptions](https://github.com/LeanderU/KnockBox/assets/84909019/4b051c8f-cfae-4163-ade0-f1169cbbb9a2)
